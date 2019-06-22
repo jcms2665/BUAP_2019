@@ -2,18 +2,9 @@
 <center><p style="width: 400px;">
 <img src="https://user-images.githubusercontent.com/13545121/59959506-28095080-947e-11e9-9e78-315fba225b38.png" style="float: center;"/></p></center>
 
-### R
+El objetivo del curso es proporcionar a los asistentes los elementos básicos de **R** a fin de que puedan manipular bases de datos, generar gráficos y desarrollar estadística básica. La dinámica del taller es totalmente práctico y busca que desde el primer momento los asistentes adquieran la habilidad para desarrollar el análisis. Para ello, se hace uso de un repositorio en **GitHub** en el que se almacenan los materiales y cada sesión se acompaña de ficheros en **RPubs** donde se puede seguir la ejecución de los códigos paso a paso.
 
-El objetivo del curso es proporcionar a los asistentes los elementos básicos de R a fin de que puedan manipular bases de datos, generar gráficos y desarrollar estadística básica. La dinámica del taller es totalmente práctico y busca que desde el primer momento los asistentes adquieran la habilidad para desarrollar el análisis. Para ello, se hace uso de un repositorio en **GitHub** en el que se almacenan los materiales y cada sesión se acompaña de ficheros en **RPubs** donde se puede seguir la ejecución de los códigos paso a paso.
-
-
-### Instructor
-
- Julio César Martínez Sánchez
- 
- _jcms2665@gmail.com_
-
-### Temario General
+## Temario General
 
 #### Sesión 1. [Introducción a R](http://rpubs.com/jcms2665/s1)
 * Aspectos básicos de R
@@ -58,4 +49,9 @@ y Gráficos*.
 * **El Universal**
 
 
+## Contacto
+
+ Julio César Martínez Sánchez
+ 
+ _jcms2665@gmail.com_
 ---
