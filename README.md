@@ -1,7 +1,6 @@
 <center> <h1>Diplomado en Software Estadistico</h1> </center>
 <center><p style="width: 400px;">
-<img src="https://user-images.githubusercontent.com/13545121/59959506-28095080-947e-11e9-9e78-315fba225b38.png" style="float: center;" />
-</p></center>
+<img src="https://user-images.githubusercontent.com/13545121/59959506-28095080-947e-11e9-9e78-315fba225b38.png" style="float: center;"/></p></center>
 
 ### R
 
@@ -10,8 +9,9 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 
 ### Instructor
 
-* Julio César Martínez Sánchez
-* _jcms2665@gmail.com_
+ Julio César Martínez Sánchez
+ 
+ _jcms2665@gmail.com_
 
 ### Temario General
 
