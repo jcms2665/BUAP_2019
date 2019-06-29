@@ -15,9 +15,11 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 * Etiquetar variables, recodificar
 * Subconjuntos de datos
 
-#### Sesión 3. Estadística descriptiva
+#### Sesión 3. [Estadística descriptiva](http://rpubs.com/jcms2665/s3)
 * Introducción
 * Medidas de tendencia central: media, mediana y moda.
+* Correlaciones
+* Gráficas
 
 #### Sesión 4. Medidas de tendencia central
 * Medidas de posición: cuartiles, deciles.
@@ -47,6 +49,19 @@ y Gráficos*.
 * [Encuesta Intercensal 2015](https://www.inegi.org.mx/programas/intercensal/2015/)
 
 * **El Universal**
+
+
+## Instalación de Rstudio
+
+* [Windows](https://www.youtube.com/watch?v=1WXgaa2Spp0)
+* [Mac](https://www.youtube.com/watch?v=GLLZhc_5enQ)
+
+## Guías rápidas de R
+
+* [Importar bases de datos](http://www.evolution.unibas.ch/teaching/evol_genetics/A_Bioinformatics/Reading/data-import-cheatsheet.pdf)
+* [Markdown](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+* [Gráficas](https://www.rstudio.com/wp-content/uploads/2016/12/ggplot2-cheatsheet-2.1-Spanish.pdf)
+
 
 
 ## Contacto
