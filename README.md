@@ -48,7 +48,7 @@ y Gráficos*.
 
 * [Encuesta Intercensal 2015](https://www.inegi.org.mx/programas/intercensal/2015/)
 
-* **El Universal**
+
 
 
 ## Instalación de Rstudio
