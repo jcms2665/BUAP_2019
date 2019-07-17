@@ -24,6 +24,7 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 #### Sesión 4. Medidas de tendencia central
 * Medidas de posición: cuartiles, deciles.
 * Medidas de dispersión: rango, amplitud intercuartílica, varianza, desviación estándar, coeficiente de variación.
+* Tabulados
 
 #### Ejercicio Final. Páginas web con R
 
