@@ -25,9 +25,8 @@ El objetivo del curso es proporcionar a los asistentes los elementos básicos de
 * Medidas de posición: cuartiles, deciles.
 * Medidas de dispersión: rango, amplitud intercuartílica, varianza, desviación estándar, coeficiente de variación.
 
-#### Sesión 5. Nuevas funcionalidades de R
-* Wordcloud
-* Análisis de redes
+#### Sesión 5. Páginas web con R
+
 * Markdown
 
 
